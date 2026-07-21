@@ -9,6 +9,8 @@
 
 ### Markdown Libraries & Tools
 
+**Markstream** (web: [markstream.simonhe.me](https://markstream.simonhe.me/), GitHub: [Simon-He95/markstream-vue](https://github.com/Simon-He95/markstream-vue), npm: [markstream-vue](https://www.npmjs.com/package/markstream-vue)) - Open-source streaming Markdown renderer for Vue, React, Svelte, and Angular AI chat interfaces. Handles incomplete Markdown while tokens arrive and supports Mermaid, KaTeX, long responses, and streaming code blocks.
+
 
 **mdshare**  (web: [mdshare.live](https://mdshare.live), github: [urbanmorph/mdshare](https://github.com/urbanmorph/mdshare), npm: [mdshare-mcp](https://www.npmjs.com/package/mdshare-mcp)) Free markdown sharing and collaboration. Upload a markdown, get shareable links with view/edit/comment permissions. WYSIWYG editor, inline comments, no login required. API + MCP server for AI integration.
 
@@ -109,4 +111,3 @@
 **License**
 
 The awesome list is dedicated to the public domain. Use it as you please with no restrictions whatsoever.
-
